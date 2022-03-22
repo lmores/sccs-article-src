@@ -1,0 +1,2 @@
+gurobi==9.5
+psutil==5.8.0
